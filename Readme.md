@@ -1,4 +1,4 @@
-Abinash Sarangi’s Portfolio | Final Semester Project
+Abinash Sarangi’s Portfolio
 Overview
 This is a personal portfolio website showcasing my skills, projects, and resume. The project is built using React and features an elegant design with a gradient background, gold accents, and smooth animations. It includes sections for About, Skills, Projects, a Contact form, and a Resume page with a downloadable PDF.
 
